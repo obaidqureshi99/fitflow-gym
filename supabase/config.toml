@@ -1,0 +1,10 @@
+project_id = "fitflow"
+[api]
+port = 54321
+[db]
+port = 54322
+[auth]
+site_url = "http://localhost:3000"
+enable_signup = false
+[auth.email]
+enable_confirmations = false
